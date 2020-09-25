@@ -1,4 +1,8 @@
-@ex;
+.middle-earth h1, .middle-earth h2 {
+  text-align: center;
+  padding: 20px;
+}
+
 .characters {
   background-color: tan;
 }

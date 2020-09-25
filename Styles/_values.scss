@@ -1,2 +1,6 @@
 $brown1: #964b00;
-@extend: %center: text-align: center &padding: 20px; 
+
+%center{
+    text-align: center;
+    padding: 20px;
+}
